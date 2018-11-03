@@ -1,0 +1,1 @@
+mState,pattern,gSpeed,gTurn,odometer,sonar.Distance,ev3_battery_voltage_m,sensor.normanaization,MaxGyro,tripmeter
